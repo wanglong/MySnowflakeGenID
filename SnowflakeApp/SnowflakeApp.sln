@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowflakeApp", "SnowflakeApp\SnowflakeApp.csproj", "{7DF6EEEC-670C-4B8C-B017-65D2A781DAE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSnowflakeApp", "UnitTestSnowflakeApp\UnitTestSnowflakeApp.csproj", "{8C4792C4-A0FA-4C53-BC3B-7BCC35310C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF6EEEC-670C-4B8C-B017-65D2A781DAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF6EEEC-670C-4B8C-B017-65D2A781DAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF6EEEC-670C-4B8C-B017-65D2A781DAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF6EEEC-670C-4B8C-B017-65D2A781DAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4792C4-A0FA-4C53-BC3B-7BCC35310C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4792C4-A0FA-4C53-BC3B-7BCC35310C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4792C4-A0FA-4C53-BC3B-7BCC35310C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4792C4-A0FA-4C53-BC3B-7BCC35310C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30070DC0-C42D-41A2-A980-7F2CE1627313}
+	EndGlobalSection
+EndGlobal

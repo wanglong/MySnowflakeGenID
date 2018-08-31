@@ -1,0 +1,17 @@
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\bin\Debug\netcoreapp2.1\UnitTestSnowflakeApp.deps.json
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\bin\Debug\netcoreapp2.1\UnitTestSnowflakeApp.runtimeconfig.json
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\bin\Debug\netcoreapp2.1\UnitTestSnowflakeApp.runtimeconfig.dev.json
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\bin\Debug\netcoreapp2.1\UnitTestSnowflakeApp.dll
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\bin\Debug\netcoreapp2.1\UnitTestSnowflakeApp.pdb
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\bin\Debug\netcoreapp2.1\SnowflakeApp.dll
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\bin\Debug\netcoreapp2.1\SnowflakeApp.pdb
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\obj\Debug\netcoreapp2.1\UnitTestSnowflakeApp.csprojAssemblyReference.cache
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\obj\Debug\netcoreapp2.1\UnitTestSnowflakeApp.csproj.CoreCompileInputs.cache
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\obj\Debug\netcoreapp2.1\UnitTestSnowflakeApp.AssemblyInfoInputs.cache
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\obj\Debug\netcoreapp2.1\UnitTestSnowflakeApp.AssemblyInfo.cs
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\obj\Debug\netcoreapp2.1\UnitTestSnowflakeApp.csproj.CopyComplete
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\obj\Debug\netcoreapp2.1\UnitTestSnowflakeApp.dll
+D:\GitWork\MySnowflakeGenID\SnowflakeApp\UnitTestSnowflakeApp\obj\Debug\netcoreapp2.1\UnitTestSnowflakeApp.pdb
